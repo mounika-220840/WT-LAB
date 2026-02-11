@@ -1,0 +1,1 @@
+Using c+ mode - read & write<br>

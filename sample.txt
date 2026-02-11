@@ -1,0 +1,3 @@
+Edited tent using w mode
+Appended text
+More text using a+ mode
